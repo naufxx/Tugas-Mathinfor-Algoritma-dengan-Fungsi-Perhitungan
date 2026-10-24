@@ -12,7 +12,7 @@ Program untuk mengelompokkan usia berdasarkan kategori usia dari Departemen Kese
 - 15–64 Tahun: Produktif
 - 65+ Tahun: Tidak Produktif
 
-**Perhitungan Rasio ketergantungan: **
+**Rumus Rasio Keterganrungan:**
 - RK = ((n1 + n2) / n3) * 100%
 
 **Hasil Output Program:**
