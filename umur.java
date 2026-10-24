@@ -72,5 +72,17 @@ public class umur{
                 tua++;
             }
         }
+        System.out.println("\nUsia Muda      : " + muda);
+        System.out.println("Usia Produktif : " + produktif);
+        System.out.println("Usia Tua       : " + tua);
+
+        if (produktif > 0) {
+            double dr = ((double) (muda + tua) / produktif) * 100;
+            System.out.println("Rasio Ketergantungan = " + dr + " %");
+        } else {
+            System.out.println("Rasio Ketergantungan tidak dapat dihitung");
+        }
+
+        input.close();
     }
 }
