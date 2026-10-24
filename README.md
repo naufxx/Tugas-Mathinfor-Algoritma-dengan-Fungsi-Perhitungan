@@ -17,4 +17,4 @@ Program untuk mengelompokkan usia berdasarkan kategori usia dari Departemen Kese
 
 **Hasil Output Program:**
 
-<img width="537" height="97" alt="Hasil output program klasifikasi usia" src="https://github.com/user-attachments/assets/0e7b2bb3-25c2-4b37-993c-1ee266bf7529" />
+<img width="537" height="97" alt="Hasil output program klasifikasi usia" src="https://github.com/user-attachments/assets/9e3c09f7-cac5-45b3-9dde-9a7a089423bf" />
